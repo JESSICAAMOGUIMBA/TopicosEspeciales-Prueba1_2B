@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tareas Universitarias</string>
+    <string name="enter_email">Ingrese un email</string>
+    <string name="enter_password">Ingrese una contraseña</string>
+    <string name="registrar">registrar</string>
+    <string name="login">Login</string>
+
+    <string name="app_seccion">Sección</string>
+    <string name="app_area">Asignatura</string>
+    <string name="app_tema">Escribe el tema</string>
+    <string name="app_reg">Registrar Clase</string>
+
+    <string-array name="secciones">
+        <item>Seleccione</item>
+        <item>2020B</item>
+        <item>2021A</item>
+        <item>2021B</item>
+        <item>2022A</item>
+        <item>2022B</item>
+        <item>2023A</item>
+    </string-array>
+
+    <string-array name="asignatura">
+        <item>Seleccione</item>
+        <item>Inglés</item>
+        <item>Arquitectura Orientada a Servicios</item>
+        <item>Seguridad en Redes</item>
+        <item>Redes de Area Loca Inalambrica</item>
+        <item>Servicios sobre Redes</item>
+        <item>Aplicaciones Distribuidas</item>
+        <item>Topicos Especiales</item>
+        <item>Comercio Electrónico</item>
+    </string-array>
+</resources>
